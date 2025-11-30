@@ -4,7 +4,10 @@
 ![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Vertex%20AI%20%7C%20Gemini-blue)
 ![Focus](https://img.shields.io/badge/Focus-PT%20Pupuk%20Kujang-red)
 
-> **An intelligent agronomy assistant powered by Google Vertex AI to diagnose plant health and recommend precise product solutions.**
+# Source Code
+https://github.com/rizailhamsyah/plant-health-app
+
+> This repository serves as a **sanitized snapshot** created specifically for the **Google Build and Blog Marathon 2025** submission. It has been cleaned of sensitive credentials and unnecessary logs.
 
 ## 📖 About The Project
 
